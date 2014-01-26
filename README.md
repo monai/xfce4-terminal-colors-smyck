@@ -1,6 +1,6 @@
 # xfce4-terminal-colors-smyck
 
-[SMYCK](http://www.milla.smyck.org/) color scheme for Xfce4 Terminal application.
+[SMYCK](http://color.smyck.org) color scheme for Xfce4 Terminal application.
 
 # Installation
 
